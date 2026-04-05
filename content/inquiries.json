@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1378d728-49bf-4254-b24f-82800c00981a",
+    "submittedAt": "2026-04-05T19:33:01.926Z",
+    "name": "Ananya Mehta",
+    "email": "ananya.mehta@northbridgelearning.com",
+    "phone": "+91 98200 45678",
+    "message": "Hello Rohit, I lead learning partnerships at NorthBridge Learning. We are planning a 90-minute workshop for MBA students on brand strategy, growth thinking, and how AI is changing marketing teams. We came across your portfolio and would love to explore your availability, session format, and speaking fee for a campus session in Mumbai later this month."
+  },
+  {
+    "id": "9143ec1b-74d9-4efc-b003-d5e3e69fe1e5",
+    "submittedAt": "2026-04-05T19:31:46.721Z",
+    "name": "Codex Test Inquiry",
+    "email": "test@example.com",
+    "phone": "9000000000",
+    "message": "This is a test inquiry from the portfolio site to verify the Google Form and email notification workflow."
+  },
+  {
+    "id": "cbd25c1f-def1-423c-9076-780668b0c040",
+    "submittedAt": "2026-04-05T19:29:59.567Z",
+    "name": "Rohit Nair",
+    "email": "rohit.nair@haymarket.co.in",
+    "phone": "09920535344",
+    "message": "workshop for team"
+  },
+  {
+    "id": "f1d643e8-1f3a-4b9e-a59c-465b65c1b2d7",
+    "submittedAt": "2026-04-05T19:26:01.904Z",
+    "name": "Codex Test",
+    "email": "test@example.com",
+    "phone": "9000000000",
+    "message": "Testing Google Form integration"
+  },
+  {
+    "id": "0370bcb7-1e46-4185-ae41-b7fa4fad9251",
+    "submittedAt": "2026-04-05T18:59:03.031Z",
+    "name": "Rohit Nair",
+    "email": "rohit.nair@haymarket.co.in",
+    "phone": "09920535344",
+    "message": "workshop for team"
+  },
+  {
+    "id": "460c8fbb-cbae-4ee2-9a91-def5d15dcce2",
+    "submittedAt": "2026-04-05T18:54:18.866Z",
+    "name": "Rohit Nair",
+    "email": "rohit.nair@haymarket.co.in",
+    "phone": "09920535344",
+    "message": "looking to do a workshop"
+  }
+]

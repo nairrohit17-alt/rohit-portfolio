@@ -1,0 +1,536 @@
+{
+  "profile": {
+    "name": "Rohit Nair",
+    "headline": "I’ve worked across agencies, media brands, strategy, growth, and storytelling. The result is simple: I know how to make ideas travel, work harder, and matter more.",
+    "location": "Mumbai, Maharashtra, India",
+    "bio": "I build brands people notice, trust, and remember. I’ve spent my career working where culture, commerce, media, and behavior collide. I’ve built strategies, shaped campaigns, grown audiences, and helped brands find a more convincing voice. I also work with students, teams, and institutions, because good thinking should not be kept in boardrooms.",
+    "email": "nairrohit17@gmail.com",
+    "linkedinUrl": "https://www.linkedin.com/in/rohit-nair-a6653440/?skipRedirect=true",
+    "resumeUrl": "",
+    "heroImage": "/profile/rohit-portrait.png",
+    "stats": [
+      {
+        "label": "LinkedIn followers",
+        "value": "4,083"
+      },
+      {
+        "label": "LinkedIn connections",
+        "value": "500+"
+      },
+      {
+        "label": "Years across strategy & marketing",
+        "value": "14+"
+      }
+    ]
+  },
+  "education": [
+    {
+      "id": "edu-1",
+      "institution": "Welingkar Institute of Management",
+      "degree": "Masters in Marketing Management, Marketing",
+      "period": "2012 - 2015",
+      "location": "Mumbai, India",
+      "summary": "Postgraduate study focused on marketing management, brand thinking, and the strategic foundations that later shaped a career across advertising, media, and growth."
+    },
+    {
+      "id": "edu-2",
+      "institution": "K C College",
+      "degree": "Bachelor of Science (BSc), Computer Science",
+      "period": "2007 - 2010",
+      "location": "Mumbai, India",
+      "summary": "Built an early grounding in computer science and structured problem-solving before moving into brand, content, and strategic marketing work."
+    }
+  ],
+  "experience": [
+    {
+      "id": "exp-1",
+      "company": "Haymarket Media Group",
+      "role": "Marketing Head",
+      "period": "Nov 2025 - Present",
+      "location": "Mumbai, Maharashtra, India",
+      "summary": "Leading marketing strategy across Haymarket Media’s flagship industry brands, with a focus on positioning, audience growth, partnerships, content-led initiatives, and building stronger relevance in the Indian market.",
+      "highlights": [
+        "Lead marketing strategy across Campaign India, PrintWeek and WhatPackaging.",
+        "Strengthen brand presence through clear positioning, consistent messaging and impactful campaigns.",
+        "Build and scale subscription, audience and engagement growth.",
+        "Develop content and initiatives that support the industry, including events, stories, tools and partnerships.",
+        "Work closely with editorial, sales, product and community teams to build relevant experiences.",
+        "Identify opportunities for new formats and IPs across digital and on-ground platforms.",
+        "Foster collaborations with agencies, brands, creators, printers, packagers and industry bodies.",
+        "Leverage Haymarket's global network, including Creative Review, Marketing Week and Festival of Marketing, to bring learning and value to the Indian market."
+      ]
+    },
+    {
+      "id": "exp-2",
+      "company": "Bennett Coleman & Co. Ltd. (The Times of India)",
+      "role": "Chief Manager, Brand Strategy",
+      "period": "Nov 2023 - Mar 2025",
+      "location": "Mumbai, Maharashtra, India",
+      "summary": "Worked on brand strategy in a large-scale media environment, shaping positioning and strategic thinking for one of India’s most influential media organizations.",
+      "highlights": []
+    },
+    {
+      "id": "exp-3",
+      "company": "JetSynthesys Pvt. Ltd.",
+      "role": "AVP Brand Strategy",
+      "period": "Nov 2021 - Nov 2023",
+      "location": "Pune Division, Maharashtra, India",
+      "summary": "Led brand strategy in a digital-first entertainment and technology business, connecting brand building with audience, product, and growth opportunities.",
+      "highlights": []
+    },
+    {
+      "id": "exp-4",
+      "company": "Dentsu Webchutney",
+      "role": "Senior Strategist",
+      "period": "Apr 2019 - Aug 2021",
+      "location": "Mumbai, Maharashtra, India",
+      "summary": "Worked on strategic planning and brand thinking in a leading creative agency environment, helping shape campaigns and communication strategy.",
+      "highlights": []
+    },
+    {
+      "id": "exp-5",
+      "company": "22feet Tribal Worldwide",
+      "role": "Cluster Lead Business and Strategy",
+      "period": "Dec 2018 - Mar 2019",
+      "location": "Mumbai, Maharashtra, India",
+      "summary": "Handled business and strategy responsibilities across accounts during a transition period in digital agency leadership.",
+      "highlights": []
+    },
+    {
+      "id": "exp-6",
+      "company": "Leo Burnett",
+      "role": "Brand Strategy Director",
+      "period": "Jun 2015 - Nov 2018",
+      "location": "Mumbai Area, India",
+      "summary": "Led account planning and strategy at Leo Burnett, contributing strategic direction for brands and campaigns in a major agency setting.",
+      "highlights": [
+        "Account Planning and Strategy at Leo Burnett."
+      ]
+    },
+    {
+      "id": "exp-7",
+      "company": "Pentagon Events & Activations Pvt Ltd",
+      "role": "Creative Strategist",
+      "period": "Mar 2011 - Jun 2015",
+      "location": "Mumbai Area, India",
+      "summary": "Worked on content and strategy, helping shape experiential and activation-led brand narratives early in the career journey.",
+      "highlights": [
+        "Content and Strategy."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "project-8-bit-journo",
+      "title": "The 8-Bit Journo",
+      "category": "Creative Strategy / Brand Experience",
+      "year": "2019",
+      "summary": "A breakthrough VICE campaign created during the Kashmir communications blackout, where internet-native news was reimagined as a teletext-style SMS product to reconnect young audiences with the world.",
+      "impact": [
+        "Reframed a media blackout as a creative distribution challenge",
+        "Turned SMS into a branded editorial experience",
+        "Earned major international industry recognition"
+      ],
+      "link": "https://www.youtube.com/watch?v=gzSlvPQ_Iag&t=9s",
+      "caseStudyId": "case-8-bit-journo",
+      "articleUrl": ""
+    }
+  ],
+  "awards": [
+    {
+      "id": "award-8-bit-spikes-2021",
+      "caseStudyId": "case-8-bit-journo",
+      "title": "The 8-Bit Journo / Spikes Asia",
+      "issuer": "Spikes Asia 2021",
+      "year": "2021",
+      "recognitionCount": 3,
+      "breakdown": ["3 Gold Spikes"],
+      "summary": "Dentsu’s official Spikes Asia release credited The 8-Bit Journo with three Gold Spikes, including recognition in Corporate Purpose & Social Responsibility / Market Disruption, as part of Dentsu Webchutney’s standout 2021 showing."
+    },
+    {
+      "id": "award-8-bit-cannes-2021",
+      "caseStudyId": "case-8-bit-journo",
+      "title": "The 8-Bit Journo / Cannes Lions",
+      "issuer": "Cannes Lions 2021",
+      "year": "2021",
+      "recognitionCount": 5,
+      "breakdown": ["3 Silver Lions", "2 Bronze Lions"],
+      "summary": "Public Cannes Lions coverage credited the campaign with five Lions in total: three Silvers and two Bronzes across Creative Strategy, Digital Craft, Direct, and Mobile."
+    },
+    {
+      "id": "award-8-bit-kyoorius-2020",
+      "caseStudyId": "case-8-bit-journo",
+      "title": "The 8-Bit Journo / Kyoorius Creative Awards",
+      "issuer": "Kyoorius Creative Awards 2020",
+      "year": "2020",
+      "recognitionCount": 5,
+      "breakdown": ["1 Black Elephant", "1 Gold Elephant", "3 more Elephants"],
+      "summary": "Dentsu Webchutney’s Kyoorius recap and Melt’s winners coverage both credit The 8-Bit Journo as one of the agency’s biggest Kyoorius performers, with five Elephants including a Black Elephant and a Gold Elephant."
+    },
+    {
+      "id": "award-anti-scam-abby-2025",
+      "caseStudyId": "case-anti-scam-shala",
+      "title": "Anti Scam Shala / ABBY Creative Awards",
+      "issuer": "ABBY Creative Awards 2025",
+      "year": "2025",
+      "recognitionCount": 4,
+      "breakdown": ["2 Bronze ABBYs", "2 Merit recognitions"],
+      "summary": "Official ABBY 2025 results credited Anti Scam Shala with Bronze in Direct Flat Mail, Bronze in Out of Home Ambient Media, and Merit recognition in Brand Activation and Branded Content."
+    },
+    {
+      "id": "award-anti-scam-kyoorius-2025",
+      "caseStudyId": "case-anti-scam-shala",
+      "title": "Anti Scam Shala / Kyoorius Creative Awards",
+      "issuer": "Kyoorius Creative Awards 2025",
+      "year": "2025",
+      "recognitionCount": 2,
+      "breakdown": ["2 First List mentions"],
+      "summary": "Kyoorius 2025 listed Anti Scam Shala twice on The First List, recognising it in Creative Use Of Media / Use Of Direct Media and in Creativity in PR / Brand Voice & Strategic Storytelling."
+    },
+    {
+      "id": "award-commonman-kyoorius-2025",
+      "caseStudyId": "case-common-man-npci",
+      "title": "#ConmanVSCommonMan / Kyoorius Creative Awards",
+      "issuer": "Kyoorius Creative Awards 2025",
+      "year": "2025",
+      "recognitionCount": 2,
+      "breakdown": ["1 Blue Elephant", "1 First List mention"],
+      "summary": "The wider Common Man platform earned a Blue Elephant in Creative Use Of Media / Use Of Publications, plus a First List mention in Commerce / Acquisition & Retention."
+    },
+    {
+      "id": "award-doomtroopers-abby-2025",
+      "caseStudyId": "case-doomtroopers-bgmi",
+      "title": "DoomTroopers / ABBY Creative Awards",
+      "issuer": "ABBY Creative Awards 2025",
+      "year": "2025",
+      "recognitionCount": 1,
+      "breakdown": ["1 Bronze ABBY"],
+      "summary": "Official ABBY 2025 results gave DoomTroopers a Bronze in Branded Content & Entertainment for Best fictional program, series, or film."
+    },
+    {
+      "id": "award-doomtroopers-kyoorius-2025",
+      "caseStudyId": "case-doomtroopers-bgmi",
+      "title": "DoomTroopers / Kyoorius Creative Awards",
+      "issuer": "Kyoorius Creative Awards 2025",
+      "year": "2025",
+      "recognitionCount": 2,
+      "breakdown": ["2 Baby Blue Elephants"],
+      "summary": "Kyoorius 2025 awarded DoomTroopers two Baby Blue Elephants, recognising the work in Branded Content / Fiction Films and in Branded Content / Talent: Film, Series & Audio."
+    },
+    {
+      "id": "award-doomtroopers-goodads-2025",
+      "caseStudyId": "case-doomtroopers-bgmi",
+      "title": "DoomTroopers / Good Ads Matter Awards",
+      "issuer": "Good Ads Matter Awards 2025",
+      "year": "2025",
+      "recognitionCount": 1,
+      "breakdown": ["1 Bronze"],
+      "summary": "Manifest Media’s published winners table listed DoomTroopers with a Bronze in the Branded Content category at the inaugural Good Ads Matter Awards."
+    },
+    {
+      "id": "award-thappad-spikes-2021",
+      "caseStudyId": "case-thappad-reported-trailer",
+      "title": "The World's Most Reported Trailer / Spikes Asia",
+      "issuer": "Spikes Asia 2021",
+      "year": "2021",
+      "recognitionCount": 5,
+      "breakdown": ["1 Silver Spike", "4 Bronze Spikes"],
+      "summary": "Dentsu India's official case page credits The World's Most Reported Trailer with one Silver and four Bronze metals at Spikes Asia."
+    },
+    {
+      "id": "award-thappad-cannes-2021",
+      "caseStudyId": "case-thappad-reported-trailer",
+      "title": "The World's Most Reported Trailer / Cannes Lions",
+      "issuer": "Cannes Lions 2021",
+      "year": "2021",
+      "recognitionCount": 1,
+      "breakdown": ["1 Silver Lion"],
+      "summary": "Dentsu India's official case page credits The World's Most Reported Trailer with a Silver Cannes Lion."
+    },
+    {
+      "id": "award-bgmi-ki-boli-effie-2025",
+      "caseStudyId": "case-bgmi-ki-boli",
+      "title": "BGMI Ki Boli / Effie India Awards",
+      "issuer": "Effie India Awards 2025",
+      "year": "2025",
+      "recognitionCount": 1,
+      "breakdown": ["1 Silver Effie"],
+      "summary": "KRAFTON India’s own post-awards coverage and MediaBrief’s report credit BGMI Ki Boli with a Silver at the Effie India Awards 2025 in Direct Marketing."
+    },
+    {
+      "id": "award-bgmi-ki-boli-abby-2024",
+      "caseStudyId": "case-bgmi-ki-boli",
+      "title": "BGMI Ki Boli / ABBY Creative Awards",
+      "issuer": "ABBY Creative Awards 2024",
+      "year": "2024",
+      "recognitionCount": 6,
+      "breakdown": ["1 Gold ABBY", "1 Silver ABBY", "3 Bronze ABBYs", "1 Merit ABBY"],
+      "summary": "Official GOAFEST 2024 winner lists credit BGMI Ki Boli with six ABBY recognitions across Public Relations, Digital, Direct, Technology, and Branded Content & Entertainment, including a Gold in Digital PR - Use of Social Media in PR."
+    },
+    {
+      "id": "award-bgmi-ki-boli-kyoorius-2024",
+      "caseStudyId": "case-bgmi-ki-boli",
+      "title": "BGMI Ki Boli / Kyoorius Creative Awards",
+      "issuer": "Kyoorius Creative Awards 2024",
+      "year": "2024",
+      "recognitionCount": 10,
+      "breakdown": ["4 Baby Blue Elephants", "6 First List recognitions"],
+      "summary": "Official Kyoorius 2024 winners pages credit BGMI Ki Boli with four Baby Blue Elephants across Direct and Experience & Activation, along with multiple First List recognitions across data, media, and activation categories."
+    },
+    {
+      "id": "award-anchor-badhte-load-abby-2022",
+      "caseStudyId": "case-anchor-badhte-load",
+      "title": "Naye India Ke Badhte Load Ke Liye / ABBY Awards",
+      "issuer": "ABBY Awards 2022",
+      "year": "2022",
+      "recognitionCount": 1,
+      "breakdown": ["1 Bronze ABBY"],
+      "summary": "The official ABBY Awards 2022 Audio Visual TV / Cinema results credited `Naye India Ke Badhte Load Ke Liye - jacuzzi` with a Bronze in Consumer Durables - Household and Business Appliances."
+    },
+    {
+      "id": "award-bajaj-v-cannes-2016",
+      "caseStudyId": "case-bajaj-v-legend-reborn",
+      "title": "Bajaj V / Cannes Lions",
+      "issuer": "Cannes Lions 2016",
+      "year": "2016",
+      "recognitionCount": 1,
+      "breakdown": ["1 Bronze Lion"],
+      "summary": "afaqs!' Cannes Lions 2016 coverage credited Leo Burnett's Bajaj V campaign with a Bronze Promo & Activation Lion."
+    }
+  ],
+  "caseStudies": [
+    {
+      "id": "case-gepl-aftermovie",
+      "title": "GEPL Aftermovie",
+      "client": "JetSynthesys / Global e-Cricket Premier League",
+      "year": "2024",
+      "releaseDate": "2024-01-29",
+      "summary": "A league-building initiative that positioned GEPL as a new-age cricket and entertainment IP, bringing together esports, fandom, live spectacle, and cultural relevance in one format.",
+      "challenge": "For JetSynthesys, the challenge was to launch the Global e-Cricket Premier League as something bigger than a gaming tournament. GEPL had to feel like a credible sports-entertainment property with enough scale, energy, and cultural familiarity to attract fans, partners, and attention in a cricket-first market.",
+      "approach": "The initiative was built as an IP play, not just an event. GEPL combined competitive e-cricket with live finals, performances, league-style presentation, and broader entertainment packaging to make the property feel watchable, ownable, and expandable. The aftermovie served as one expression of that larger strategy, helping distill the season into a sharper story about ambition, community, and spectacle.",
+      "outcome": "Public coverage around Season 1 positioned GEPL as a milestone moment for e-cricket, with the finals staged as a large-format live event and supported by the launch of Real Cricket 24. The initiative helped frame GEPL as a partner-ready property at the intersection of sport, gaming, and entertainment, strengthening its credibility as an IP rather than just a one-off event.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=EjSiH2i1Y2A",
+      "articleUrl": "https://g2g.news/esports/dubai-vipers-win-the-first-edition-of-jetsynthesys-global-e-cricket-premier-league/",
+      "thumbnailUrl": "https://i.ytimg.com/vi/EjSiH2i1Y2A/hqdefault.jpg",
+      "tags": ["Esports IP", "Event Marketing", "Entertainment Branding"]
+    },
+    {
+      "id": "case-bgmi-dont-care-to-share",
+      "title": "Don't Care To Share",
+      "client": "KRAFTON India / BGMI",
+      "year": "2023",
+      "releaseDate": "2023-12-10",
+      "summary": "A launch campaign for BGMI's X-Suit Carnival that flipped influencer marketing on its head, turning exclusivity itself into the joke and the selling point.",
+      "challenge": "For KRAFTON India, the task was to launch BGMI's X-Suit Carnival in a way that captured what made X-Suits desirable in the first place: status, rarity, and the thrill of owning something everyone else wants. The challenge was to communicate that exclusivity without falling into predictable influencer-led product promotion.",
+      "approach": "Instead of using creators to show off the X-Suits and invite everyone in, the campaign did the opposite. In a two-film series under the #DontCareToShare idea, Jonathan and Dynamo were cast as influencers who kept sabotaging the shoot because they did not want anyone else to know about the X-Suits. That behind-the-scenes disruption became the narrative engine, turning scarcity, humour, and creator behaviour into the message rather than just the packaging around it.",
+      "outcome": "Public campaign coverage positioned the work as a clutter-breaking launch for the X-Suit Carnival and quoted BGMI's marketing team saying the films had reached 135 million views on Instagram at the time. More importantly, the campaign gave the product a sharper cultural frame: not just another cosmetic drop, but a status symbol people would selfishly want to keep to themselves.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=RnFwDDyFibU",
+      "articleUrl": "https://www.mediainfoline.com/advertising/tgthr-launches-a-campaign-with-a-twist-for-bgmis-x-suit-carnival",
+      "thumbnailUrl": "https://i.ytimg.com/vi/RnFwDDyFibU/maxresdefault.jpg",
+      "tags": ["Gaming Culture", "Influencer Marketing", "Launch Campaign"]
+    },
+    {
+      "id": "case-platinum-greater-together",
+      "title": "Greater Together",
+      "client": "Platinum Days of Love / Platinum Guild International",
+      "year": "2019",
+      "releaseDate": "2019-11-19",
+      "summary": "A relationship campaign that reframed togetherness not as compromise, but as two accomplished individuals becoming stronger by building something greater together.",
+      "challenge": "For Platinum Days of Love, the challenge was to move beyond familiar jewellery advertising tropes and give modern relationships a more contemporary emotional frame. The brand needed to make Platinum Love Bands feel meaningful to couples who saw love less as completion and compromise, and more as individuality, equality, and partnership.",
+      "approach": "The campaign introduced #GreaterTogether as the core idea behind the new season's collection of Platinum Love Bands. The film told the story of two successful individuals whose relationship creates a third space that is stronger than either person alone. To make the thought more experiential, the campaign also extended into a split-screen mobile tool that required two people to bring their phones together to view the full story, turning the brand idea into an interaction rather than just a message.",
+      "outcome": "Public campaign coverage positioned #GreaterTogether as a 360-degree program led by a digital film and supported by TV, cinema, print, digital, OOH, and PR. The work helped Platinum Days of Love articulate a sharper, more contemporary view of love and gave the collection a more distinctive narrative platform built around equality, individuality, and partnership.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=VValwIUu4io",
+      "articleUrl": "https://bestmediainfo.com/2019/11/it-s-greatertogether-than-being-individuals-when-in-love-says-platinum-days-of-love",
+      "thumbnailUrl": "https://i.ytimg.com/vi/VValwIUu4io/maxresdefault.jpg",
+      "tags": ["Brand Platform", "Relationship Storytelling", "Integrated Campaign"]
+    },
+    {
+      "id": "case-jeep-this-is-it",
+      "title": "This Is It",
+      "client": "Jeep India / Jeep Compass",
+      "year": "2019",
+      "releaseDate": "2019-01-22",
+      "summary": "An integrated Jeep Compass campaign that framed the SUV as the point where everyday routine ends and a fuller, more adventurous life begins.",
+      "challenge": "For Jeep India, the task was to reinforce the Jeep Compass as a premium, capable SUV in a category crowded with feature-led communication and predictable automotive storytelling. The challenge was to make the Compass feel like a more complete answer to both city life and outdoor aspiration, without sounding like just another spec-heavy car campaign.",
+      "approach": "The campaign introduced `This Is It` as a decisive brand thought, positioning the Jeep Compass as the moment when compromise stops and the right choice becomes obvious. Rather than treating the car only as a product showcase, the work connected luxury, adventure, and everyday escape into one integrated message. The film, supported by a larger campaign rollout, used contrast between mundane routine and a more expansive life to make the Compass feel like the most complete SUV in its space.",
+      "outcome": "Public campaign coverage positioned `This Is It` as an integrated launch for the Jeep Compass, spanning film and wider brand communication. The work helped sharpen the Compass's identity around capability, completeness, and aspiration, giving Jeep India a clearer emotional and cultural frame than a conventional automotive feature demo would have delivered on its own.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=JHCYlqb3d6c",
+      "articleUrl": "https://www.exchange4media.com/advertising-news/jeep-compass-campaign-inspires-viewers-to-embrace-adventure-over-mundaneness-94144.html",
+      "thumbnailUrl": "https://i.ytimg.com/vi/JHCYlqb3d6c/maxresdefault.jpg",
+      "tags": ["Automotive Branding", "Integrated Campaign", "Lifestyle Positioning"]
+    },
+    {
+      "id": "case-anchor-badhte-load",
+      "title": "Naye India Ke Badhte Load Ke Liye",
+      "client": "Anchor by Panasonic / Panasonic Life Solutions India",
+      "year": "2018",
+      "releaseDate": "2018-11-10",
+      "summary": "A campaign that turned rising household aspiration into a sharp consumer story for safer, higher-quality electrical infrastructure.",
+      "challenge": "For Anchor by Panasonic, the challenge was to make a low-interest category like wires, switchgear, and MCBs feel relevant to modern consumers who rarely think about electrical infrastructure until something fails. The brand needed a simpler, more visible story that could connect growing aspiration at home with the hidden need for better electrical products underneath it.",
+      "approach": "The campaign introduced `Naye India Ke Badhte Load Ke Liye` as a broad positioning platform. Rather than talking only in technical language, the work used exaggerated, humorous situations to show how new-age lifestyles and rising household ambition also increase electrical load. The linked MCB film turned that thought into a relatable story, making a technical product feel more accessible, contemporary, and culturally in-step with modern Indian homes.",
+      "outcome": "Public campaign coverage positioned the work as a larger brand repositioning effort across wires, cables, and switchgear, helping Anchor by Panasonic move from a familiar switches brand to a broader electrical solutions brand. The campaign gave the category a more memorable consumer frame by linking technical performance to a recognisable truth about modern life: the more we want from our homes, the more our infrastructure needs to carry.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Y4QIeZ_mWzk",
+      "articleUrl": "https://dev.pitchonnet.com/marketing-moments/anchor-by-panasonic-unveils-new-brand-positioning-through-naye-india-ke-badhte-load-ke-liye-campaign-18733.html",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Y4QIeZ_mWzk/maxresdefault.jpg",
+      "tags": ["Brand Positioning", "Consumer Durables", "Integrated Campaign"]
+    },
+    {
+      "id": "case-isuzu-all-muscle-all-heart",
+      "title": "All Muscle All Heart",
+      "client": "ISUZU mu-X / Isuzu Motors India",
+      "year": "2017",
+      "releaseDate": "2017-11-05",
+      "summary": "A launch campaign that positioned the ISUZU mu-X as an SUV built for both extremes: rugged enough for adventure, generous enough for family life.",
+      "challenge": "For Isuzu Motors India, the challenge was to launch the mu-X in a market where full-size SUVs were often framed through a trade-off: either you bought road presence and ruggedness for yourself, or comfort and practicality for your family. The brand needed a sharper thought that could resolve that tension and make the mu-X feel like the answer to both sets of needs.",
+      "approach": "The campaign introduced `All Muscle All Heart` as the core positioning idea for the mu-X. The communication framed the vehicle as an SUV with genuine off-road strength, dominant design, and toughness on the outside, but with the comfort, space, and family-readiness buyers wanted on the inside. Rather than treating those qualities as opposing ends of the category, the campaign turned their coexistence into the whole point of the brand story.",
+      "outcome": "Public launch coverage consistently carried the `All Muscle All Heart` thought as the defining frame for the mu-X, helping Isuzu present the vehicle as a more complete SUV proposition. The work gave the launch a clearer, more memorable positioning by translating product truth into a simple duality people could immediately understand: capability for the driver, comfort for the family.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Sglt_B13Nbo",
+      "articleUrl": "https://www.mediainfoline.com/automobiles/isuzu-launches-the-mu-x-premium-full-size-7-seater-suv-in-india",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Sglt_B13Nbo/maxresdefault.jpg",
+      "tags": ["Automotive Branding", "Launch Campaign", "Product Positioning"]
+    },
+    {
+      "id": "case-bajaj-v-legend-reborn",
+      "title": "The Story of a Legend Reborn",
+      "client": "Bajaj V / Bajaj Auto",
+      "year": "2016",
+      "releaseDate": "2016-01-26",
+      "summary": "A launch campaign that turned the steel of INS Vikrant into a motorcycle and transformed product history into a national story of pride, memory, and ownership.",
+      "challenge": "For Bajaj Auto, the challenge was to launch a commuter motorcycle in a category where feature-led product communication often struggles to create deep emotional differentiation. The brand needed an idea strong enough to elevate the product beyond function and price, while still making it feel relevant and desirable at scale.",
+      "approach": "The campaign was built on an extraordinary product truth: the bike used metal from the decommissioned INS Vikrant, India's first aircraft carrier and a symbol of national pride. Rather than treating that only as a feature detail, the work turned it into the centre of the story. `The Story of a Legend Reborn` framed Bajaj V not just as a motorcycle, but as a way for ordinary Indians to own a piece of history. That gave the launch the emotional force of a patriotic tribute while still serving the commercial task of making the bike feel distinctive, memorable, and culturally loaded.",
+      "outcome": "Public campaign coverage reported that the launch created a significant wave of attention around Bajaj V, including strong earned media and major engagement on digital platforms. afaqs!' Cannes coverage, citing the brand's official case film, reported that the campaign reached 18 million people on social media, generated substantial free media within a week, and helped drive 11,000 bookings on launch day. More importantly, the work gave Bajaj V a rare kind of product meaning: not just a new bike, but a visible continuation of a national legend.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ag0hnJAo1kA",
+      "articleUrl": "https://www.afaqs.com/news/advertising/47028_bajaj-v-a-piece-of-ins-vikrant-in-your-bike",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ag0hnJAo1kA/maxresdefault.jpg",
+      "tags": ["Brand Storytelling", "Product Launch", "Cultural Marketing"]
+    },
+    {
+      "id": "case-nissan-omgtr",
+      "title": "Legendary Precision Salutes India",
+      "client": "Nissan GT-R / Nissan India",
+      "year": "2017",
+      "releaseDate": "2017-01-25",
+      "summary": "A Republic Day campaign that used the Nissan GT-R's precision to create the world's largest outline of India's map and turn performance into a national-scale statement.",
+      "challenge": "For Nissan India, the challenge was to sustain excitement around the newly launched GT-R and make its legendary precision meaningful in an Indian context. The brand needed a halo campaign that felt worthy of the car's iconic status while also creating disproportionate attention around a niche sports car in a broad consumer market.",
+      "approach": "The campaign used Republic Day as the cultural moment and precision as the product truth. Under the #OMGTR and `Legendary Precision Salutes India` idea, Nissan drove the GT-R across Sambhar Lake in Rajasthan to create the world's largest outline of India's map, plotting coordinates via GPS and capturing the feat as digital content. The act transformed engineering accuracy into a patriotic spectacle, making the car's performance visible through an idea people could immediately grasp and share.",
+      "outcome": "afaqs! reported that the campaign aimed for a Limca Book of Records entry, generated more than 6 million video views, reached nearly 970,244 people through Thunderclap, and became one of Nissan India's most engaging social moments at the time. More importantly, the work gave Nissan a culturally resonant way to translate GT-R precision into a memorable Indian halo campaign rather than relying only on conventional supercar marketing.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=2AqKcVgZUIA",
+      "articleUrl": "https://www.afaqs.com/news/marketing-initiatives/49921_omg-omg-omgtr-nissan-gt-r-creates-world-record-by-drawing-largest-ever-country-map",
+      "thumbnailUrl": "https://i.ytimg.com/vi/2AqKcVgZUIA/sddefault.jpg",
+      "tags": ["Automotive Branding", "Cultural Marketing", "Experiential Stunt"]
+    },
+    {
+      "id": "case-thappad-reported-trailer",
+      "title": "The World's Most Reported Trailer",
+      "client": "Thappad",
+      "year": "2020",
+      "releaseDate": "2020-08-12",
+      "summary": "A trailer campaign that turned YouTube’s report button into a call to act, urging people to stop ignoring domestic abuse and start reporting it.",
+      "challenge": "Domestic abuse in India remains deeply underreported, often dismissed as a private matter rather than recognised as violence that demands action. For the film Thappad, the challenge was to promote the release while also making the issue impossible to ignore in a way that could move people from passive viewing to active reporting.",
+      "approach": "The campaign used YouTube’s built-in report feature as the medium itself. What looked like a normal trailer turned into an intervention: when the central act of violence happens, Taapsee Pannu breaks the fourth wall and asks viewers to report the trailer for violent content. By turning a platform behaviour into the core creative mechanic, the campaign made the act of reporting feel immediate, personal, and socially meaningful.",
+      "outcome": "According to Dentsu India's official case page, the trailer was reported more than 400,000 times, reached people organically at scale, and contributed to an increase in the number of domestic abuse cases reported in the following months. The work went on to earn major international recognition, including a Silver Cannes Lion and five Spikes Asia metals.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=jbPdKtaJ-Kk",
+      "articleUrl": "https://www.dentsu.com/in/en/our-work/case-study-dentsu-webchutney-trailer-thappad-release",
+      "thumbnailUrl": "https://i.ytimg.com/vi/jbPdKtaJ-Kk/hqdefault.jpg",
+      "tags": ["Social Impact", "Platform Innovation", "Film Marketing"]
+    },
+    {
+      "id": "case-bgmi-ki-boli",
+      "title": "BGMI Ki Boli",
+      "client": "KRAFTON India / BGMI",
+      "year": "2023",
+      "releaseDate": "2023-09-21",
+      "summary": "A comeback campaign that turned the shared language of BGMI players into a nostalgic community challenge, helping the brand reconnect with fans after a long absence.",
+      "challenge": "After BGMI returned to India following a ten-month gap, KRAFTON India needed to reconnect with a community that had drifted to other games in its absence. The challenge was not just to announce the return, but to reignite emotional familiarity and remind players why the culture around BGMI still belonged to them.",
+      "approach": "The idea was built around the language the community had created for itself. KRAFTON India manually scraped community discussions, streams, comments, and fan conversations to identify the phrases, references, and in-jokes players associated most strongly with BGMI. Those cues were then turned into more than 150 easter eggs hidden inside a two-minute film, inviting fans to pause, decode, revisit, and participate in the campaign rather than passively watch it.",
+      "outcome": "According to Kyoorius’ official entry details, the campaign generated more than 53,000 user-created videos, over 4,000 hours of organic content, more than 7,000 videos longer than ten minutes, and a reported 5,000% increase in engagement rate. Beyond the numbers, the campaign helped turn nostalgia into active community participation, reinforcing BGMI’s place in Indian gaming culture through language, play, and shared memory.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=-8dAB9fKMFk",
+      "articleUrl": "https://mediabrief.com/krafton-india-bgmi-ki-boli-campaign/",
+      "thumbnailUrl": "https://i.ytimg.com/vi/-8dAB9fKMFk/maxresdefault.jpg",
+      "tags": ["Community Marketing", "Gaming Culture", "Interactive Storytelling"]
+    },
+    {
+      "id": "case-doomtroopers-bgmi",
+      "title": "DoomTroopers",
+      "client": "KRAFTON India / BGMI",
+      "year": "2024",
+      "releaseDate": "2024-10-30",
+      "summary": "A Diwali campaign for BGMI that turned in-game squad culture into an emotional story about friendship, belonging, and bonds that move beyond the screen.",
+      "challenge": "For KRAFTON India, the challenge was to articulate what makes BGMI deeply loved by players in a way that felt emotionally resonant rather than purely product-led. Around Diwali, the brand needed to show that the game was not only about competition and entertainment, but also about the friendships and sense of belonging players build inside their squads.",
+      "approach": "The campaign centered on a film called DoomTroopers, which followed a group of young players from different parts of India whose late-night gaming sessions evolve into a real friendship. When one squad member goes missing from their usual routine, the others set out to find him, meeting in person for the first time and discovering shared struggles along the way. Set against the emotional backdrop of Diwali, the campaign framed BGMI not just as a game, but as a space where genuine human connection is formed.",
+      "outcome": "Public campaign coverage positioned the work as a Diwali-led brand film launched across BGMI’s social channels, with an additional contest inviting players to share moments about meeting their squads in real life for a chance to win a sponsored trip. The result was a campaign that translated digital community into an accessible emotional narrative, helping KRAFTON India spotlight friendship and camaraderie as key parts of the BGMI experience.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=KQd5eIGZLeQ",
+      "articleUrl": "https://www.bwmarketingworld.com/article/krafton-india%E2%80%99s-diwali-bgmi-campaign-celebrates-real-life-friendships-537788",
+      "thumbnailUrl": "https://i.ytimg.com/vi/KQd5eIGZLeQ/maxresdefault.jpg",
+      "tags": ["Brand Film", "Gaming Culture", "Community Storytelling"]
+    },
+    {
+      "id": "case-anti-scam-shala",
+      "title": "Anti Scam Shala",
+      "client": "NPCI x The Times of India",
+      "year": "2025",
+      "releaseDate": "2025-04-04",
+      "summary": "A large-scale on-ground awareness campaign at the Maha Kumbh that turned newspaper pouches into a simple, culturally intuitive lesson on digital payment safety.",
+      "challenge": "The Maha Kumbh brought together one of the largest human gatherings in the world, creating both a huge opportunity and a serious risk: millions of people engaging in transactions in an environment where scam awareness and digital payment trust needed reinforcement. The challenge was to communicate payment safety in a way that could travel quickly, feel local, and reach people in the middle of real purchase moments rather than inside a traditional ad break.",
+      "approach": "The campaign extended the #ConmanVsCommonMan platform into a highly contextual, on-ground format called Anti Scam Shala. Instead of relying only on conventional media placements, the idea used eco-friendly newspaper carry bags, a familiar Indian retail touchpoint, as the medium. Scam-awareness comic strips and safety messaging were integrated into these pouches and distributed at points of sale across the Maha Kumbh, so every purchase became a chance to educate people on safer digital payment behavior.",
+      "outcome": "Impact reports that the initiative was designed for a Maha Kumbh audience that crossed 65 crore devotees and that the campaign reached millions through the use of newspaper pouches in multiple sizes and languages. By using a highly contextual physical medium at the exact point of transaction, the work amplified NPCI and TOI’s anti-scam messaging while reinforcing trust in UPI and digital payments in a mass public environment.",
+      "youtubeUrl": "",
+      "articleUrl": "https://www.impactonnet.com/more-from-impact/anti-scam-shala-campaign-educates-millions-at-maha-kumbh-on-digital-payment-safety-10319.html",
+      "thumbnailUrl": "https://storage.googleapis.com/impact-news-photo/news-photo/10319-ncpi.jpg",
+      "tags": ["On-ground Activation", "Public Awareness", "Digital Payments"]
+    },
+    {
+      "id": "case-common-man-npci",
+      "title": "The Common Man Takes on Conmen",
+      "client": "NPCI x The Times of India",
+      "year": "2024",
+      "releaseDate": "2024-11-28",
+      "summary": "A print-led public awareness campaign that used RK Laxman’s iconic Common Man to make digital scam education more accessible, culturally familiar, and hard to ignore.",
+      "challenge": "As digital payment fraud and cyber scams continued to rise, NPCI needed a way to educate large, non-urban and mainstream Indian audiences who may not be reachable through typical digital-first media planning. The challenge was to create public-interest communication that felt immediate, understandable, and trusted across diverse readership segments.",
+      "approach": "The campaign used The Common Man, one of Indian print media’s most recognisable characters, as the central device to dramatise scam scenarios in comic-strip form. Developed as a newspaper-led intervention, the strips showed scamsters trying to outwit The Common Man while accompanying copy urged readers to stay alert. The format translated current scam intelligence into easy-to-grasp, real-world use cases that could meet readers in a habitually trusted environment: their daily newspaper.",
+      "outcome": "According to afaqs!, the work ran pan-India across five publications: The Times of India, The Economic Times, Navbharat Times, Maharashtra Times, and Vijay Karnataka, in English, Hindi, Kannada, and Marathi. The article also reports that the comic-strip series was bi-weekly and intended to become a weekly feature, giving the campaign continuity and repeat visibility as part of NPCI’s wider anti-scam communication effort.",
+      "youtubeUrl": "",
+      "articleUrl": "https://www.afaqs.com/news/advertising/the-common-man-toi-npci-7613235",
+      "thumbnailUrl": "https://img-cdn.publive.online/fit-in/1200x675/afaqs/media/media_files/2024/11/27/DKJqoUjanugW8sMUmmEs.png",
+      "tags": ["Print Strategy", "Public Awareness", "Brand Communication"]
+    },
+    {
+      "id": "case-8-bit-journo",
+      "title": "The 8-Bit Journo",
+      "client": "VICE",
+      "year": "2019",
+      "releaseDate": "2019-12-01",
+      "summary": "A VICE campaign that turned SMS into a low-tech news product, helping reconnect young Kashmiris with the world during a communications blackout.",
+      "challenge": "In the aftermath of the Article 370 revocation, Jammu and Kashmir entered an extended communications blackout. For VICE, a digital-first youth publisher, the core audience was suddenly cut off from the very infrastructure through which news was normally consumed. The challenge was not just to publish content, but to restore connection, relevance, and access in an environment where internet-led media could no longer function in its usual form.",
+      "approach": "The strategic insight was to stop treating the internet as essential and instead recreate the experience of modern news through a channel that could still travel: SMS. Working with a teletext-inspired 8-bit visual language, missed news stories were reformatted into compact, culturally relevant dispatches for young audiences in Kashmir. Users could subscribe and begin receiving stories directly on their phones, turning an old technology into a branded product experience that felt inventive, useful, and unmistakably contemporary despite the limitations of the medium.",
+      "outcome": "Public campaign coverage reported that hundreds of stories were adapted into the format and that the initiative reached audiences at significant scale across Kashmir. Beyond reach, the work stood out because it transformed a severe infrastructural constraint into the heart of the creative idea. The campaign earned major international recognition, including Cannes Lions wins and Spikes Asia Golds, and demonstrated how strategy, storytelling, and distribution design could come together to solve a real access problem under extreme conditions.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=gzSlvPQ_Iag&t=9s",
+      "articleUrl": "",
+      "thumbnailUrl": "https://i.ytimg.com/vi/gzSlvPQ_Iag/sddefault.jpg",
+      "tags": ["Creative Strategy", "Brand Experience", "Media Innovation"]
+    }
+  ],
+  "site": {
+    "themeNote": "Editorial, warm, interactive",
+    "contactHeading": "If you want me in the room, write to me.",
+    "contactBody": "If you’re looking for a workshop, a guest lecture, an AI masterclass, or a strategic session for your team, get in touch. I’m always interested in conversations that lead to better thinking and better work.",
+    "services": [
+      {
+        "title": "Workshops for colleges",
+        "summary": "Sessions on strategy, branding, storytelling, careers, and how the business is changing."
+      },
+      {
+        "title": "AI masterclasses",
+        "summary": "Practical workshops on how to use AI in marketing, content, strategy, and day-to-day work without losing judgment."
+      },
+      {
+        "title": "Corporate training",
+        "summary": "Custom sessions for teams that want better thinking, better communication, and more useful strategic habits."
+      },
+      {
+        "title": "Guest lectures and classes",
+        "summary": "Real-world sessions drawn from agency life, media, growth, branding, and leadership."
+      }
+    ]
+  }
+}
