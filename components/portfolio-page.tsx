@@ -48,8 +48,16 @@ function getPrimaryWorkLink(caseStudy?: CaseStudyItem | null) {
 
 function ThemeToggle({ mode, onToggle }: { mode: ThemeMode; onToggle: () => void }) {
   return (
-    <button className="theme-toggle" type="button" onClick={onToggle} aria-label="Toggle theme">
-      <span>{mode === "dark" ? "Dark" : "Light"}</span>
+    <button
+      className="theme-toggle"
+      type="button"
+      onClick={onToggle}
+      aria-label={mode === "dark" ? "Switch to light mode" : "Switch to dark mode"}
+      title={mode === "dark" ? "Switch to light mode" : "Switch to dark mode"}
+    >
+      <span className="theme-toggle-icon" aria-hidden="true">
+        {mode === "dark" ? "☀" : "☾"}
+      </span>
     </button>
   );
 }

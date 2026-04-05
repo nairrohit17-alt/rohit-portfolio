@@ -96,6 +96,7 @@ Current direction:
 - portrait should appear before the intro copy in the hero flow so the page introduces Rohit visually first and then with words
 - keep the portrait treatment minimal; do not add extra caption copy under the image unless explicitly requested
 - if background motion is added, keep it ambient and subtle; current direction is soft parallax glow, not loud animated decoration
+- theme toggle should use a clean icon treatment rather than visible `Light` / `Dark` text in the header
 - the first glow pass was too subtle in practice; current implementation is slightly stronger so the motion is actually perceptible while still staying behind the content
 - after that first pass still felt invisible in the live preview, the background effect was changed to a dedicated ambient glow layer with three softly animated orbs so the motion reads more clearly
 - the orb animation was then made more readable with shorter cycles, larger drift distances, and a light opacity pulse because the previous version still felt static in practice

@@ -153,6 +153,7 @@ Avoid:
 - Use Rohit's photo in the hero in a clean, premium way when available
 - In the hero flow, show Rohit's portrait before the intro copy
 - Keep the portrait treatment minimal and avoid extra caption copy under the image unless requested
+- keep the theme toggle icon-based in the header rather than a text label pill
 - If adding background motion, keep it ambient and subtle; prefer soft parallax glow over obvious animation
 - Recognition should stay compact:
   - case-wise summary cards

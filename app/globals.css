@@ -252,9 +252,18 @@ img {
   background: var(--surface);
   color: var(--text);
   border-radius: 999px;
+  width: 44px;
+  height: 44px;
   min-height: 44px;
-  padding: 0 14px;
-  font-size: 0.9rem;
+  padding: 0;
+  font-size: 1.1rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.theme-toggle-icon {
+  line-height: 1;
 }
 
 .hero {
