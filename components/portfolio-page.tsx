@@ -423,6 +423,7 @@ export function PortfolioPage({ data }: Props) {
               </aside>
             ) : null}
             <div className="hero-copy" id="about">
+              <p className="hero-name">{data.profile.name}</p>
               <p className="eyebrow">Brand and growth marketing leader / {data.profile.location}</p>
               <h1>I build brands people notice, trust, and remember.</h1>
               <p className="hero-summary">{data.profile.headline}</p>
@@ -494,8 +495,10 @@ export function PortfolioPage({ data }: Props) {
           <SectionHeading label="Experience" title="A quick career timeline." />
           <div className="timeline-lane">
             <div className="timeline-lane-head">
-              <p className="column-label">Work</p>
-              <RailHint />
+              <div>
+                <p className="column-label">Work</p>
+                <RailHint />
+              </div>
             </div>
             <div className="timeline-rail">
               {data.experience.map((item) => (
@@ -510,8 +513,10 @@ export function PortfolioPage({ data }: Props) {
           </div>
           <div className="timeline-lane">
             <div className="timeline-lane-head">
-              <p className="column-label">Education</p>
-              <RailHint />
+              <div>
+                <p className="column-label">Education</p>
+                <RailHint />
+              </div>
             </div>
             <div className="timeline-rail">
               {data.education.map((item) => (

@@ -279,6 +279,13 @@ img {
   max-width: 760px;
 }
 
+.hero-name {
+  margin: 0 0 8px;
+  font-size: 1rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
 .hero-portrait-panel {
   display: grid;
   gap: 12px;
@@ -563,7 +570,7 @@ img {
 .timeline-lane-head {
   display: flex;
   align-items: baseline;
-  justify-content: space-between;
+  justify-content: flex-start;
   gap: 12px;
   margin-bottom: 14px;
 }
