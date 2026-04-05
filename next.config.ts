@@ -5,7 +5,15 @@ const nextConfig: NextConfig = {
     remotePatterns: [
       {
         protocol: "https",
-        hostname: "**"
+        hostname: "i.ytimg.com"
+      },
+      {
+        protocol: "https",
+        hostname: "storage.googleapis.com"
+      },
+      {
+        protocol: "https",
+        hostname: "img-cdn.publive.online"
       }
     ]
   }
