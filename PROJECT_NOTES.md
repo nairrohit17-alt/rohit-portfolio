@@ -226,6 +226,7 @@ Still evolving:
   - `/Users/rohitnair/Documents/Playground/DEPLOYMENT.md`
 - production deploy was blocked once by a Vercel security gate on old `Next.js 15.2.4`
 - project has now been upgraded to `Next.js 16.2.2`
+- Vercel redeploying an older failed snapshot can keep using the old commit hash; if that happens, push a fresh commit to `main` instead of redeploying the stale snapshot again
 
 ## Inquiry form integration
 
