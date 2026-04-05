@@ -169,23 +169,10 @@ img {
 .topbar {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-end;
   gap: 16px;
   padding: 8px 0 28px;
   position: relative;
-}
-
-.brandmark {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 52px;
-  height: 52px;
-  border-radius: 999px;
-  background: var(--surface-strong);
-  color: var(--inverse);
-  font-weight: 700;
-  letter-spacing: 0.08em;
 }
 
 .menu-toggle {
@@ -327,9 +314,9 @@ img {
 }
 
 .hero-copy h1 {
-  font-size: clamp(2.6rem, 11vw, 5.8rem);
-  line-height: 0.95;
-  max-width: 700px;
+  font-size: clamp(2.2rem, 9vw, 4.5rem);
+  line-height: 0.98;
+  max-width: 620px;
 }
 
 .hero-summary {

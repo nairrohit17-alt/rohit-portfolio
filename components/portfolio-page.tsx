@@ -374,9 +374,6 @@ export function PortfolioPage({ data }: Props) {
       <main className="site-shell">
         <section className="hero" id="top">
           <header className="topbar">
-            <a className="brandmark" href="#top">
-              RN
-            </a>
             <button
               className="menu-toggle"
               type="button"
