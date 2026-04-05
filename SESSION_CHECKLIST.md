@@ -48,6 +48,11 @@ npm run start
 
 Then refresh the browser / preview pane.
 
+## Deployment note
+
+- if Vercel blocks deployment for vulnerable Next.js, upgrade immediately instead of retrying old builds
+- current project version is `Next.js 16.2.2`
+
 ## How to add a new case study
 
 For each new case:

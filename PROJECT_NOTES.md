@@ -224,6 +224,8 @@ Still evolving:
 - Preview URL: `http://localhost:3000`
 - planned production workflow is documented in:
   - `/Users/rohitnair/Documents/Playground/DEPLOYMENT.md`
+- production deploy was blocked once by a Vercel security gate on old `Next.js 15.2.4`
+- project has now been upgraded to `Next.js 16.2.2`
 
 ## Inquiry form integration
 
