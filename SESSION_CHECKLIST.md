@@ -74,6 +74,7 @@ For each new case:
    - `og:image`
    - `twitter:image`
    - other clean lead visual if needed
+   - if a YouTube still looks weak, prefer a stronger campaign image from credible public coverage
 5. Research award recognition from the internet:
    - official award result pages
    - official agency / network releases

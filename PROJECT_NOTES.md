@@ -57,6 +57,7 @@ The homepage flow should stay simple and intentional:
 - When the user shares a case study link, always try to fetch and attach a representative image from the web.
 - For YouTube links, use YouTube thumbnails or other strong public visuals.
 - For article links, use `og:image`, `twitter:image`, or another strong lead image when available.
+- If a YouTube-led case has a weak still but campaign coverage has a stronger public visual, prefer the stronger campaign image.
 - Every time the user shares a new case study or project link, research awards and shortlist/win information on the internet and update the recognition section automatically.
 - When a shared link is one asset from a broader platform, league, or initiative, title and describe the case at that larger platform level instead of reducing it to the asset label.
 - Prefer official or primary sources for awards:
