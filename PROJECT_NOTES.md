@@ -58,6 +58,7 @@ The homepage flow should stay simple and intentional:
 - For YouTube links, use YouTube thumbnails or other strong public visuals.
 - For article links, use `og:image`, `twitter:image`, or another strong lead image when available.
 - Every time the user shares a new case study or project link, research awards and shortlist/win information on the internet and update the recognition section automatically.
+- When a shared link is one asset from a broader platform, league, or initiative, title and describe the case at that larger platform level instead of reducing it to the asset label.
 - Prefer official or primary sources for awards:
   - official festival / awards result pages
   - official agency or network press releases
@@ -314,7 +315,7 @@ Then refresh `http://localhost:3000`.
 - `BGMI Ki Boli` was added as a case study with release-date ordering, plus Effie, ABBY, and Kyoorius recognition.
 - `BGMI Ki Boli` recognition was expanded after a deeper source pass: the official GOAFEST 2024 PDFs show a much bigger ABBY haul, and the official Kyoorius 2024 winners pages show a larger mix of Baby Blue Elephants and First List recognitions than the first conservative entry captured.
 - `The World's Most Reported Trailer` for `Thappad` was added as a 2020 case study with release-date ordering, using Dentsu India's official case page as the primary source for summary and verified Cannes/Spikes recognition.
-- `GEPL Aftermovie` was added as a 2024 case study for JetSynthesys / Global e-Cricket Premier League. No verified awards were added yet because the current public source pass did not confirm them strongly enough.
+- `Global eCricket Premier League` is the correct framing for the GEPL case. Do not use `GEPL Aftermovie` as the public card title.
 - GEPL case copy should foreground the initiative and larger IP story, not over-index on the aftermovie asset itself.
 - `Don't Care To Share` was added as a 2023 BGMI case study from the X-Suit Carnival campaign, using the provided YouTube link plus campaign coverage.
 - Frame `Don't Care To Share` as the broader campaign idea rather than just the single film asset `The Invasion`.

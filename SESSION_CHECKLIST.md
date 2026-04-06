@@ -103,6 +103,7 @@ Summary rule:
 - Make the summary a crisp gist of the case study itself.
 - Do not mention the writing format in the public card copy.
 - If no reliable awards source is found for a case, add the case without recognition rather than overclaiming.
+- If the shared link is only one asset from a broader initiative, rewrite the case at the initiative/platform level instead of using the asset name as the headline.
 
 ## Current homepage structure goal
 
