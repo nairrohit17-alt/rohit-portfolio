@@ -188,6 +188,7 @@ Avoid:
 - For automotive SUV launches too, frame the case around the tension or duality the campaign resolved, not just the hero film description
 - For automotive stunts or halo launches too, frame the case around the larger cultural or precision idea, not just the recorded event
 - For historically rooted brand launches too, foreground the product truth and larger cultural platform if that is what makes the work distinctive
+- For channel or show-launch stunts too, frame the case around the broader launch idea and experiential hook, not just the clip title
 - For YouTube-led case thumbnails, verify the image URL before saving it; if `maxresdefault` is unavailable, fall back to `sddefault` or `hqdefault`
 - Keep contact conversion simple:
   - prefer a direct inquiry form over a mailto link

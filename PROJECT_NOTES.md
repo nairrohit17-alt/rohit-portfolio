@@ -342,6 +342,9 @@ Then refresh `http://localhost:3000`.
 - Frame it as the broader Bajaj V / INS Vikrant platform, not just the uploaded film.
 - Verified recognition added so far:
   - `1 Bronze Lion` at `Cannes Lions 2016`
+- `Cyril's Magic Stunt at Carter Road India Mumbai` was added as a 2012 AXN Channel case study.
+- Frame it as an experiential channel/show-launch stunt tied to Cyril's India-facing programming push, not just as an isolated viral clip.
+- No verified awards have been added for the AXN Cyril case yet.
 - Contact was refactored from a `mailto` CTA into a proper inquiry form.
 - The form now collects name, email, mobile number, and inquiry description.
 - Submissions are saved locally in `content/inquiries.json` and can also be forwarded to a Google Form through env-configured field IDs.
